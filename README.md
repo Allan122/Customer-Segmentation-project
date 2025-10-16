@@ -3,7 +3,7 @@
 **Source Dataset:** [Kaggle: Online Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail)
 
 ## Project Overview
-This project applies **unsupervised machine learning** to a transactional dataset to identify and profile distinct customer groups based on their purchasing behavior. The goal is to provide **actionable intelligence** for marketing, retention, and sales strategies.
+This project applies **unsupervised machine learning** to a transactional dataset to identify and profile distinct customer groups based on their purchasing behavior. The goal is to provide **actionable intelligence** for marketing, retention and sales strategies.
 
 ## Skills and Tools
 * **Machine Learning:** K-Means Clustering, Unsupervised Learning
